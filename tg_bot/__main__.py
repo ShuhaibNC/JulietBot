@@ -147,7 +147,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                                                                        url="https://t.me/JulietNews")
                                                                                  ],
                                                                                    [InlineKeyboardButton(text="ADD JULIET BOT TO YOUR GROUP",
-                                                                       url="t.me/{}?startgroup=true".format(bot.username))]))
+                                                                       url="t.me/{}?startgroup=true".format(bot.username))]]))
 
     else:
         update.effective_message.reply_text("ചത്തിട്ടില്ലാ...🤪")
