@@ -142,7 +142,10 @@ def start(bot: Bot, update: Update, args: List[str]):
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="🤝HELP🤝",
                                                                        callback_data="help_back".format(bot.username)),
                                                                                    InlineKeyboardButton(text="🧑‍💻My Creator🧑‍💻",
-                                                                       url="t.me/shuhaibnc")],
+                                                                       url="t.me/shuhaibnc")], [InlineKeyboardButton(text="👥Juliet Support",
+                                                                       url="https://t.me/MissJulietbot"), InlineKeyboardButton(text="📢Juliet News",
+                                                                       url="https://t.me/JulietNews")
+                                                                                 ]
                                                                                    [InlineKeyboardButton(text="ADD JULIET BOT TO YOUR GROUP",
                                                                        url="t.me/{}?startgroup=true".format(bot.username))],
                                                                                    [InlineKeyboardButton(text="Source Code",
