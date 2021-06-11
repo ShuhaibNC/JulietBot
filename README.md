@@ -1,15 +1,11 @@
 # Juliet Bot
 
-DEPLOY HERE - [Juliet Bot](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fshuhaibnc%2FGRANDROBOT&template=https%3A%2F%2Fgithub.com%2Fshuhaibnc%2FGRANDROBOT)
-Credits - [Shuhaib N C](https://t.me/shuhaibnc)
-
-# tgbot
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
 Originally a simple group management bot with multiple admin features, it has evolved, becoming extremely modular and 
 simple to use.
 
-Can be found on telegram as [Juliet Bot](https://t.me/MissJulietbot)).
+Can be found on telegram as [Juliet Bot](https://t.me/MissJulietbot).
 
 Miss Juliet and I are moderating a [support group](https://t.me/JulietSupport), where you can ask for help setting up your
 bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
@@ -22,7 +18,7 @@ Alternatively, [find me on telegram](https://t.me/shuhaibnc)! (Keep all support 
 
 To deploy me on heroku, use below button:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shuhaibnc/julietbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shuhaibnc/JulietBot)
 
 ## Starting the bot.
 
