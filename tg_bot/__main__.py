@@ -49,7 +49,7 @@ Hello! my name *{}*.
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-TECHNO_IMG = "https://download1347.mediafire.com/tdqiefj9dqcg/l0ppokgr53bwe5l/IMG_20210611_211156_266.jpg"
+TECHNO_IMG = "https://drive.google.com/file/d/1FXuZhk75jO9It_c_inuE56HsgkkAkB2f/view?usp=drivesdk"
 IMPORTED = {}
 MIGRATEABLE = []
 HELPABLE = {}
