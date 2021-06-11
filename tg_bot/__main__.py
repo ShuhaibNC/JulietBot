@@ -145,7 +145,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                                                                        url="t.me/shuhaibnc")], [InlineKeyboardButton(text="👥Juliet Support",
                                                                        url="https://t.me/MissJulietbot"), InlineKeyboardButton(text="📢Juliet News",
                                                                        url="https://t.me/JulietNews")
-                                                                                 ]
+                                                                                 ],
                                                                                    [InlineKeyboardButton(text="ADD JULIET BOT TO YOUR GROUP",
                                                                        url="t.me/{}?startgroup=true".format(bot.username))],
                                                                                    [InlineKeyboardButton(text="Source Code",
