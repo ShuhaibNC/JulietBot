@@ -1,4 +1,4 @@
-#Made by @LEGENDX22
+#Made by @ShuhaibNC
 import html
 import time
 import datetime
